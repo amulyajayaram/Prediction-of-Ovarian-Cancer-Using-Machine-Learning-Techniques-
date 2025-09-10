@@ -17,11 +17,11 @@ This project focuses on the **early detection and classification of ovarian canc
 
 # Project Structure
 data/ Dataset (histopathological images)
-├── src/ # Source code (Python scripts for preprocessing, training, testing)
-├── models/ # Trained CNN models
-├── results/ # Graphs, confusion matrix, performance metrics
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+ -src/ # Source code (Python scripts for preprocessing, training, testing)
+ -models/ # Trained CNN models
+ -results/ # Graphs, confusion matrix, performance metrics
+ -requirements.txt # Python dependencies
+
 
 # Requirements
 - Python **3.7+**
